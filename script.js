@@ -1,0 +1,1 @@
+console.log("dendi kan lox");
